@@ -1,0 +1,15 @@
+body {
+	background-color: whitesmoke;
+}
+
+.container {
+	width: 600px;
+	height: 400px;
+	background-color: white;
+	margin: 0 auto;
+}
+
+.score-wrapper {
+	display: flex;
+	justify-content: space-between;
+}
